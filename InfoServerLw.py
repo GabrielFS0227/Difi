@@ -126,4 +126,4 @@ async def servidores(interaction: discord.Interaction):
             await interaction.followup.send(embed=error_embed)
 
 # Utilize seu Token abaixo
-bot.run('token')
+bot.run('token test by iury')
